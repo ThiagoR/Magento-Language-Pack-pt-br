@@ -544,7 +544,7 @@
 "Magento Connect Manager","Abrir Magento Connect"
 "Magento Logo","Logo do Magento"
 "Magento is a trademark of Magento Inc. Copyright &copy; %s Magento Inc.","Magento é uma marca registrada de Magento Inc. Copyright &copy; %s Magento Inc."
-"Magento ver. %s","Magento versão %s"
+"Magento ver. %s","Magento versão. %s <br/><a href='http://www.netsis.com.br/' target='_blank'>www.netsis.com.br</a>"
 "Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc.","Magento&trade; é uma marca registrada da Magento Inc.<br/>Copyright &copy; %s Magento Inc."
 "Main Tabs","Tabs Principal"
 "Make Inactive","Tornar Inativo"
@@ -1248,3 +1248,4 @@
 "to","para"
 "website(%s) scope","escopo website(%s)"
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%s"">configuration</a>.","{{base_url}} não e recomendável usar em ambiente de produção para declarar a URL Base (Não Segura) / URL Base (Segura). é altamente recomendável alterar estes valores na sua <a href=""%s"">configuração</a> do Magento."
+"If there is an account associated with %s you will receive an email with a link to reset your password.","Se existir uma conta associada ao endereço %s você receberá um e-mail com um link para resetar sua senha."

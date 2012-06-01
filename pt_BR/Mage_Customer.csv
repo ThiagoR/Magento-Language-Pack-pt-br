@@ -279,7 +279,6 @@
 "Pending","Pendente"
 "Per Website","Por Website"
 "Personal Information","Dados Pessoais"
-"Please enter your email address below. You will receive a link to reset your password.","Informe o seu e-mail e você receberá um link para resetar sua senha."
 "Please enter your email below and we will send you a new password.","Informe seu email e enviaremos uma nova senha."
 "Please enter your email below and we\'ll send you confirmation link for it.","Informe seu email e enviaremos um link de confirmação para isso."
 "Please enter your email.","Informe seu email."
@@ -439,3 +438,5 @@
 "Zip/Postal Code","Cep"
 "n/a","n/a"
 "or","ou"
+"Please enter your email address below. You will receive a link to reset your password.","Informe o seu endereço de e-mail abaixo. Você receberá um link para resetar sua senha."
+"If there is an account associated with %s you will receive an email with a link to reset your password.","Se existir uma conta associada ao endereço %s você receberá um e-mail com um link para resetar sua senha."
